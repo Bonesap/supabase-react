@@ -1,0 +1,9 @@
+{
+  "devDependencies": {
+    "@types/deno": "^2.3.0"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.49.10",
+    "deno": "^2.3.5"
+  }
+}
